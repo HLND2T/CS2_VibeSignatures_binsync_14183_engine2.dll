@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626960Z
+addr = 0xadea0
+size = 0x144
+name = "CNetworkGameServerBase_GetClassBaseline"
+type = "char"
+
+[header]
+name = "CNetworkGameServerBase_GetClassBaseline"
+addr = 0xadea0
+type = "char"
+
+[header.args]

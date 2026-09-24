@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:19.925219Z
+addr = 0x203850
+size = 0x4de
+name = "InitSteamLogin"
+type = "void"
+
+[header]
+name = "InitSteamLogin"
+addr = 0x203850
+type = "void"
+
+[header.args]

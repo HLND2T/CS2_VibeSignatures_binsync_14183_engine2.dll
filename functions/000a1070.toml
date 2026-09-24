@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626904Z
+addr = 0xa1070
+size = 0x35
+name = "CEngineServer_CreateFakeClient"
+type = "unsigned int *"
+
+[header]
+name = "CEngineServer_CreateFakeClient"
+addr = 0xa1070
+type = "unsigned int *"
+
+[header.args]

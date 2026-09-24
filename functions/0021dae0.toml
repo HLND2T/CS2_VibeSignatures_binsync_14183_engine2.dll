@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627363Z
+addr = 0x21dae0
+size = 0x1d5
+name = "SetFrameTimeAmnesty"
+type = "void"
+
+[header]
+name = "SetFrameTimeAmnesty"
+addr = 0x21dae0
+type = "void"
+
+[header.args]

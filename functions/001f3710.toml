@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627301Z
+addr = 0x1f3710
+size = 0x10e
+name = "CSplitScreenService_AddSplitScreenUser"
+type = "char"
+
+[header]
+name = "CSplitScreenService_AddSplitScreenUser"
+addr = 0x1f3710
+type = "char"
+
+[header.args]

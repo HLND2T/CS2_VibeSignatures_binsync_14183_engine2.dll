@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:19.134009Z
+addr = 0xfea50
+size = 0x39
+name = "CEngineSoundServices_ShouldSuppressNonUISounds"
+type = "char"
+
+[header]
+name = "CEngineSoundServices_ShouldSuppressNonUISounds"
+addr = 0xfea50
+type = "char"
+
+[header.args]

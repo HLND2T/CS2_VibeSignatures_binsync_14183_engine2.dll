@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626923Z
+addr = 0xa3ea0
+size = 0x4d
+name = "CNetworkGameServerBase_GetPassword"
+type = "char *"
+
+[header]
+name = "CNetworkGameServerBase_GetPassword"
+addr = 0xa3ea0
+type = "char *"
+
+[header.args]

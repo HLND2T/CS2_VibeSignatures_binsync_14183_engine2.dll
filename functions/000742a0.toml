@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626680Z
+addr = 0x742a0
+size = 0xe
+name = "CEngineServer_SetFrameTimeAmnesty"
+type = "void"
+
+[header]
+name = "CEngineServer_SetFrameTimeAmnesty"
+addr = 0x742a0
+type = "void"
+
+[header.args]

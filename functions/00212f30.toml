@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627337Z
+addr = 0x212f30
+size = 0x20
+name = "CEngineServiceMgr_IsInGameLoop"
+type = "char"
+
+[header]
+name = "CEngineServiceMgr_IsInGameLoop"
+addr = 0x212f30
+type = "char"
+
+[header.args]

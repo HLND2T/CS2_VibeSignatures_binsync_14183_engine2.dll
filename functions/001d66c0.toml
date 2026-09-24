@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627227Z
+addr = 0x1d66c0
+size = 0xaf
+name = "CNetworkClientService_SendNetMessage"
+type = "char"
+
+[header]
+name = "CNetworkClientService_SendNetMessage"
+addr = 0x1d66c0
+type = "char"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627105Z
+addr = 0x13ca40
+size = 0x256
+name = "RegisterEventListener_Abstract"
+type = "void"
+
+[header]
+name = "RegisterEventListener_Abstract"
+addr = 0x13ca40
+type = "void"
+
+[header.args]

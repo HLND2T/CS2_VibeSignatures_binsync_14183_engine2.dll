@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627398Z
+addr = 0x231770
+size = 0x9c
+name = "CLoopTypeSimpleService_OnLoopActivate"
+type = "long long"
+
+[header]
+name = "CLoopTypeSimpleService_OnLoopActivate"
+addr = 0x231770
+type = "long long"
+
+[header.args]

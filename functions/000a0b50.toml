@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626902Z
+addr = 0xa0b50
+size = 0x23d
+name = "CEngineServer_ClientCommand"
+type = "char"
+
+[header]
+name = "CEngineServer_ClientCommand"
+addr = 0xa0b50
+type = "char"
+
+[header.args]

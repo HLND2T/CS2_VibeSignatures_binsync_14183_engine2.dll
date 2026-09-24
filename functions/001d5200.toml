@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:19.560448Z
+addr = 0x1d5200
+size = 0x97
+name = "CNetworkClientService_DisconnectGameNow"
+type = "long long"
+
+[header]
+name = "CNetworkClientService_DisconnectGameNow"
+addr = 0x1d5200
+type = "long long"
+
+[header.args]

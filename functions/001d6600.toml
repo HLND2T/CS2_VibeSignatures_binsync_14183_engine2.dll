@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627225Z
+addr = 0x1d6600
+size = 0x59
+name = "CNetworkClientService_SplitScreenConnect"
+type = "double"
+
+[header]
+name = "CNetworkClientService_SplitScreenConnect"
+addr = 0x1d6600
+type = "double"
+
+[header.args]

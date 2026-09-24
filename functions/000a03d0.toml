@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626875Z
+addr = 0xa03d0
+size = 0x3d
+name = "CEngineServer_IsMapValid"
+type = "long long"
+
+[header]
+name = "CEngineServer_IsMapValid"
+addr = 0xa03d0
+type = "long long"
+
+[header.args]

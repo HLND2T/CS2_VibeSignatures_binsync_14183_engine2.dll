@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626816Z
+addr = 0x84eb0
+size = 0x9f
+name = "CNetworkGameClientBase_ProcessUpdateStringTable"
+type = "char"
+
+[header]
+name = "CNetworkGameClientBase_ProcessUpdateStringTable"
+addr = 0x84eb0
+type = "char"
+
+[header.args]

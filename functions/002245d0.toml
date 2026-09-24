@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627378Z
+addr = 0x2245d0
+size = 0x25d
+name = "CLoopTypeClientServer_AllocateLoopMode"
+type = "bool"
+
+[header]
+name = "CLoopTypeClientServer_AllocateLoopMode"
+addr = 0x2245d0
+type = "bool"
+
+[header.args]

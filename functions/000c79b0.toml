@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627038Z
+addr = 0xc79b0
+size = 0x10b
+name = "CServerSideClientBase_ProcessTick"
+type = "char"
+
+[header]
+name = "CServerSideClientBase_ProcessTick"
+addr = 0xc79b0
+type = "char"
+
+[header.args]

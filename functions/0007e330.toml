@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626712Z
+addr = 0x7e330
+size = 0x519
+name = "CNetworkGameClientBase_DisconnectGame"
+type = "long long"
+
+[header]
+name = "CNetworkGameClientBase_DisconnectGame"
+addr = 0x7e330
+type = "long long"
+
+[header.args]

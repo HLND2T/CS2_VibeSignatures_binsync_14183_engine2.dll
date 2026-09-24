@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626670Z
+addr = 0x6bbc0
+size = 0x158b
+name = "CMsgSource2NetworkFlowQuality_PrintStats"
+type = "long long"
+
+[header]
+name = "CMsgSource2NetworkFlowQuality_PrintStats"
+addr = 0x6bbc0
+type = "long long"
+
+[header.args]

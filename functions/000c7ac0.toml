@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627040Z
+addr = 0xc7ac0
+size = 0x242
+name = "CServerSideClientBase_MarkSpawnGroupLoadCompleted"
+type = "void"
+
+[header]
+name = "CServerSideClientBase_MarkSpawnGroupLoadCompleted"
+addr = 0xc7ac0
+type = "void"
+
+[header.args]

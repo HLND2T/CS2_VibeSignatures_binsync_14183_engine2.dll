@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:19.991454Z
+addr = 0x210170
+size = 0x349
+name = "CEngineServiceMgr_RegisterLoopMode"
+type = "long long"
+
+[header]
+name = "CEngineServiceMgr_RegisterLoopMode"
+addr = 0x210170
+type = "long long"
+
+[header.args]

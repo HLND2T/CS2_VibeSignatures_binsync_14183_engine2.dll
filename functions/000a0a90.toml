@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626897Z
+addr = 0xa0a90
+size = 0x5a
+name = "CEngineServer_IsUserIDInUse"
+type = "long long"
+
+[header]
+name = "CEngineServer_IsUserIDInUse"
+addr = 0xa0a90
+type = "long long"
+
+[header.args]

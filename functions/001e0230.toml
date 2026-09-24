@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:19.801273Z
+addr = 0x1e0230
+size = 0x2c6
+name = "CNetworkServerService_OnServerPostAdvanceTick"
+type = "long long"
+
+[header]
+name = "CNetworkServerService_OnServerPostAdvanceTick"
+addr = 0x1e0230
+type = "long long"
+
+[header.args]

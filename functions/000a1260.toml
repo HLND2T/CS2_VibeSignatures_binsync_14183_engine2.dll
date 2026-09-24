@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626912Z
+addr = 0xa1260
+size = 0x167
+name = "CEngineServer_GetPlayerInfo"
+type = "char"
+
+[header]
+name = "CEngineServer_GetPlayerInfo"
+addr = 0xa1260
+type = "char"
+
+[header.args]

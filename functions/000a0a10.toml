@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626890Z
+addr = 0xa0a10
+size = 0xc
+name = "CEngineServer_LogPrint"
+type = "void"
+
+[header]
+name = "CEngineServer_LogPrint"
+addr = 0xa0a10
+type = "void"
+
+[header.args]

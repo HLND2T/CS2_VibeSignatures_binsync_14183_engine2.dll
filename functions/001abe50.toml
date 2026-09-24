@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627114Z
+addr = 0x1abe50
+size = 0xe
+name = "CGameResourceService_RegisterEventMap"
+type = "void"
+
+[header]
+name = "CGameResourceService_RegisterEventMap"
+addr = 0x1abe50
+type = "void"
+
+[header.args]

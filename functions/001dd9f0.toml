@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627243Z
+addr = 0x1dd9f0
+size = 0x205
+name = "CServerChangelevelState_dtor"
+type = "void"
+
+[header]
+name = "CServerChangelevelState_dtor"
+addr = 0x1dd9f0
+type = "void"
+
+[header.args]

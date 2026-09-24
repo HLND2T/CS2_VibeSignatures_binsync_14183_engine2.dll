@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627060Z
+addr = 0xcaa20
+size = 0x9
+name = "CServerSideClientBase_ProcessSplitPlayerConnect"
+type = "char"
+
+[header]
+name = "CServerSideClientBase_ProcessSplitPlayerConnect"
+addr = 0xcaa20
+type = "char"
+
+[header.args]

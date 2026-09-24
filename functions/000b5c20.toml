@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627010Z
+addr = 0xb5c20
+size = 0x14e
+name = "CNetworkGameServerBase_StartHLTVMaster"
+type = "char"
+
+[header]
+name = "CNetworkGameServerBase_StartHLTVMaster"
+addr = 0xb5c20
+type = "char"
+
+[header.args]

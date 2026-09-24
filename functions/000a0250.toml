@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626869Z
+addr = 0xa0250
+size = 0x17d
+name = "CEngineServer_ChangeLevel"
+type = "void"
+
+[header]
+name = "CEngineServer_ChangeLevel"
+addr = 0xa0250
+type = "void"
+
+[header.args]

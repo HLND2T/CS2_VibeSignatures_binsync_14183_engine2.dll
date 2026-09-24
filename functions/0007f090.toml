@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626794Z
+addr = 0x7f090
+size = 0x161
+name = "CNetworkGameClientBase_SendStringCmd"
+type = "void"
+
+[header]
+name = "CNetworkGameClientBase_SendStringCmd"
+addr = 0x7f090
+type = "void"
+
+[header.args]

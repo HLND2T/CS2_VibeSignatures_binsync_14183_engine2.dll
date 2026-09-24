@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.627051Z
+addr = 0xca5b0
+size = 0xea
+name = "CServerSideClientBase_GetUserIDString"
+type = "CUtlString *"
+
+[header]
+name = "CServerSideClientBase_GetUserIDString"
+addr = 0xca5b0
+type = "CUtlString *"
+
+[header.args]

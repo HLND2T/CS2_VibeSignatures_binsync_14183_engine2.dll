@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:15.626867Z
+addr = 0xa0200
+size = 0x8
+name = "CNetworkGameServerBase_GetPlayerNetworkIDString"
+type = "const char *"
+
+[header]
+name = "CNetworkGameServerBase_GetPlayerNetworkIDString"
+addr = 0xa0200
+type = "const char *"
+
+[header.args]

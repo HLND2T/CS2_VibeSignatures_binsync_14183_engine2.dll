@@ -1,0 +1,12 @@
+last_change = 2026-09-24T17:36:17.924035Z
+addr = 0x62f00
+size = 0x1e4
+name = "CNetworkGameClient_CreateMove"
+type = "void"
+
+[header]
+name = "CNetworkGameClient_CreateMove"
+addr = 0x62f00
+type = "void"
+
+[header.args]
